@@ -1,0 +1,18 @@
+nav li {
+	display: inline;
+	margin-left: 0px;
+	margin-right: 10px;
+}
+
+nav ul {
+	padding-left: 0px;
+	background-color: lightblue;
+	font-size: 20px;
+	width: 950px;
+}
+
+.wrapper {
+	margin-left: 25px;
+	margin-right: 25px;
+	width: 900px;
+}
