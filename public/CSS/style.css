@@ -16,3 +16,8 @@ nav ul {
 	margin-right: 25px;
 	width: 900px;
 }
+
+body {
+	background-image: url(http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2015%2F0716%2F7599c289b6e75c1f7c0f6a7067009c38.jpg&w=640);
+	background-repeat: repeat-x
+}
